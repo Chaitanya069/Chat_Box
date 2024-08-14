@@ -1,3 +1,3 @@
-# Pocket_Pay
+# Chat_Box
 
-The Payment App project aims to develop a secure and user-friendly mobile application for managing and conducting financial transactions efficiently.
+A real-time messaging application built using the MERN stack for seamless communication.
